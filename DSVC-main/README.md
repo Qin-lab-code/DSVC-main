@@ -37,10 +37,11 @@ torch>=1.7.0
    </tr>
    <tr>
     <td scope="row">DSVC</td>
-        <td>Yang et al. <a href="https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf" target="_blank">Dual Social View Enhanced Contrastive Learning for Social Recommendation</a>, TCSS'24.
+        <td>Yang et al. <a href="https://ieeexplore.ieee.org/abstract/document/10769506/" target="_blank">Dual Social View Enhanced Contrastive Learning for Social Recommendation</a>, TCSS'24.
          </td> <td>Graph + CL</d> <td>PyTorch</d> 
       </tr>
    <tr>
+
 
 ## Related Datasets
 
@@ -57,10 +58,11 @@ torch>=1.7.0
 
 If you find this repo helpful to your research, please cite our paper.
 ```
-@article{yu2022self,
-  title={Self-Supervised Learning for Recommender Systems: A Survey},
-  author={Yu, Junliang and Yin, Hongzhi and Xia, Xin and Chen, Tong and Li, Jundong and Huang, Zi},
-  journal={arXiv preprint arXiv:2203.15876},
-  year={2022}
+@article{yang2024dual,
+  title={Dual Social View Enhanced Contrastive Learning for Social Recommendation},
+  author={Yang, Shixiao and Qin, Zhida and Du, Enjun and Zhou, Pengzhan and Huang, Tianyu},
+  journal={IEEE Transactions on Computational Social Systems},
+  year={2024},
+  publisher={IEEE}
 }
 ```
